@@ -91,7 +91,7 @@ fabric.properties
 hs_err_pid*
 
 ### Jekyll ###
-_site/
+#_site/
 .sass-cache/
 .jekyll-metadata
 
